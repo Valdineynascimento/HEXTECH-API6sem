@@ -58,10 +58,10 @@ It was decided that the project would be divided into 4 deliveries, throughout t
 
 # Product Backlog: User Stories 📍
 <p align="center">
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint1.PNG" width="400"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint2.PNG" width="400"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint3.PNG" width="400"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint4.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/ASprint1.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/ASprint2.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/ASprint3.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/ASprint4.PNG" width="400"/>
         
 # Schedule 🗓
 | *Sprints*  | *Date* | *README*  |

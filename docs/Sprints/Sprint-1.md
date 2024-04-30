@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/images/Banner_Hextech.png" alt="Logo Hextech">
+    <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Banner_Hextech.png" alt="Logo Hextech">
 </h1>
 
 <h2 align="right">
