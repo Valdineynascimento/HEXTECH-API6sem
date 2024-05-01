@@ -22,17 +22,17 @@
 # Requirements 📍
 
 ### Functional
-** Geolocated Sentiment Visualization
-** Authentication and Session Management
-** Multisource Integration of Reviews
-** Advanced Sentiment Analysis
-** Data Storage and Management
-** Data Visualization and Reporting
+* Geolocated Sentiment Visualization
+* Authentication and Session Management
+* Multisource Integration of Reviews
+* Advanced Sentiment Analysis
+* Data Storage and Management
+* Data Visualization and Reporting
 
 ### Non-Functional
-** Compliance and Reporting
-** Interoperability and Security
-** Performance and Scalability
+* Compliance and Reporting
+* Interoperability and Security
+* Performance and Scalability
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
