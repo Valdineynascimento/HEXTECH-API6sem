@@ -1,4 +1,4 @@
-![hextech_logo](./assets/images/hextech_banner.png)
+![hextech_logo](./docs/images/hextech_banner.png)
 
 # Index
 
