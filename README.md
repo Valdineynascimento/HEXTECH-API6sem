@@ -57,6 +57,91 @@
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
 # Product Backlog: User Stories 📍
+<table align="justify">
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Priority</th>
+      <th>User Story</th>
+      <th>Estimate</th>
+      <th>Sprint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Alto</td>
+      <td>As a system administrator, I want a platform with dashboards to visualize the data that my institution has and understand the general opinion in different regions, thereby obtaining insights that will help my managers in making decisions and improving the customer experience.</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Alto</td>
+      <td>As a system administrator, I want to explore sentiment data on a map to identify areas with high or low concentration of sentiment.</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Alto</td>
+      <td>As an administrator, I want a database structure to store sentiment data and location information in an efficient and scalable way.</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Alto</td>
+      <td>As a system administrator, I want to visualize sentiment data in different formats such as line, bar, or pie charts to get a more complete view of its distribution.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Alto</td>
+      <td>As a system administrator, I want to filter sentiment data by time period to analyze trends over time.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Alto</td>
+      <td>As an administrator, I want customer comments to be classified into positive, neutral and negative automatically to facilitate analysis.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Alto</td>
+      <td>As a user, I want to view the sentiment analysis results in the visualization dashboard to get a deeper understanding of the sentiments expressed in the data.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Médio</td>
+      <td>As an administrator, I want other personnel who need to operate the system to register in the system using name, email and password to ensure that unauthorized access does not occur and thus guarantee the security of data and users.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Médio</td>
+      <td>As a system operator, I want to access the system using the login “CPF or employee registration number” and a password.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Médio</td>
+      <td>As a system operator, I want to view my account information such as name, email and registration date.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+# Sprints Backlog:
 <p align="center">
         <img src=./docs/images/ASprint1.PNG width="400"/>
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/ASprint2.PNG" width="400"/>
