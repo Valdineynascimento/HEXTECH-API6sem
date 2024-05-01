@@ -6,7 +6,7 @@
 - [Problem](#problem)
 - [Solution](#solution)
 - [Requirements](#Requirements)
-- [Product Backlog: User Stories](#Product-Backlog:-User-Stories-)
+- [Product Backlog](#Product-Backlog-)
 - [Schedule](#schedule-)
 - [Team](#team-)
 - [Utilized Technologies](#utilized-technologies-)
@@ -36,7 +36,7 @@
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
-# Product Backlog: User Stories 📍
+# Product Backlog 📍
 <table align="justify">
   <thead>
     <tr>
