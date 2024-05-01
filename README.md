@@ -12,11 +12,11 @@
 
 # Problem
 
-<p>In the heart of the digital age, where every interaction leaves a digital footprint, emerges the critical need to not only collect but deeply understand the voices of customers. Online reviews have become a treasure trove of insights, reflecting the satisfaction, expectations, and sometimes the disappointments of consumers.</p>
+<p align="justify">In the heart of the digital age, where every interaction leaves a digital footprint, emerges the critical need to not only collect but deeply understand the voices of customers. Online reviews have become a treasure trove of insights, reflecting the satisfaction, expectations, and sometimes the disappointments of consumers.</p>
 
 # Solution
 
-<p>We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
+<p align="justify">We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
 
 # Product Backlog 📍
         
