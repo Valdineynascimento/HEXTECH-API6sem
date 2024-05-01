@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Valdineynascimento/HEXTECH-API6sem/blob/main/docs/images/hextech_banner.png" alt="Logo Hextech">
+    <img src=../docs/images/hextech_banner.png alt="Logo Hextech">
 </h1>
 
 <h2 align="right">
@@ -10,7 +10,7 @@
 ## <p align="center"> 🗒️ Sprint Backlog 🗒️
 
 <p align="center">
-  <img src="https://github.com/Valdineynascimento/HEXTECH-API6sem/blob/main/docs/images/ASprint1.PNG" width="600">
+  <img src=../docs/images/ASprint1.PNG width="600">
 </p>
 
 ## <p align="center"> Mockup
