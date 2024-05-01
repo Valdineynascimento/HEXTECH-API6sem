@@ -16,7 +16,7 @@
 ## <p align="center"> Mockup
 
 <p align="center">
-  <img src="https://github.com/Valdineynascimento/HEXTECH-API6sem/blob/main/docs/images/sprint1.gif" width="600">
+  <img src=../docs/images/sprint1.gif width="600">
 </p>
 
 ## <p align="center"> 👦 User Stories 👧
