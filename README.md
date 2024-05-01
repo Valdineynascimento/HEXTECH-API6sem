@@ -6,7 +6,7 @@
 - [Problem](#problem)
 - [Solution](#solution)
 - [Requirements](#Requirements)
-- [Sprint Backlog](#Sprint-Backlog-)
+- [Sprint Backlog](#Sprint-Backlog)
 - [Product Backlog](#Product-Backlog-)
 - [Schedule](#schedule-)
 - [Team](#team-)
