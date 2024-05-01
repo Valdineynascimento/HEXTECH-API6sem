@@ -62,7 +62,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     <tr>
       <th>Rank</th>
       <th>Priority</th>
-      <th>User Story</th>
+      <th align="justify">User Story</th>
       <th>Estimate</th>
       <th>Sprint</th>
     </tr>
