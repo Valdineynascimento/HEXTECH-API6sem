@@ -21,7 +21,7 @@
 
 # Requirements 📍
 
-* Functional
+### Functional
 ** Geolocated Sentiment Visualization
 ** Authentication and Session Management
 ** Multisource Integration of Reviews
@@ -29,7 +29,7 @@
 ** Data Storage and Management
 ** Data Visualization and Reporting
 
-*Non-Functional
+### Non-Functional
 ** Compliance and Reporting
 ** Interoperability and Security
 ** Performance and Scalability
