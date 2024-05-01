@@ -121,7 +121,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
   </tbody>
 </table>
 
-# Sprints Backlog:
+# Sprint Backlog:
 <p align="center">
         <img src=./docs/images/ASprint1.PNG width="400"/>
         <img src=./docs/images/ASprint2.PNG width="400"/>
