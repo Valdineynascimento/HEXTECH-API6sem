@@ -5,7 +5,7 @@
 - [Index 📎](#index)
 - [Problem](#problem)
 - [Solution](#solution)
-- [Product Backlog](#product-backlog-)
+- [Requirements](#Requirements)
 - [Product Backlog: User Stories](#Product-Backlog:-User-Stories-)
 - [Schedule](#schedule-)
 - [Team](#team-)
@@ -19,7 +19,7 @@
 
 <p align="justify">We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
 
-# Requirements 📍
+# Requirements
 
 ### Functional
 * Geolocated Sentiment Visualization
