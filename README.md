@@ -6,6 +6,7 @@
 - [Problem](#problem)
 - [Solution](#solution)
 - [Product Backlog](#product-backlog-)
+- [Product Backlog: User Stories](#Product-Backlog:-User-Stories-)
 - [Schedule](#schedule-)
 - [Team](#team-)
 - [Utilized Technologies](#utilized-technologies-)
