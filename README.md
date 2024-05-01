@@ -19,41 +19,20 @@
 
 <p align="justify">We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
 
-# Product Backlog 📍
-        
-### Geolocated Sentiment Visualization
+# Requirements 📍
 
-* Visualization Panel
-* Interactive Map
-* Swagger Addition
+* Functional
+** Geolocated Sentiment Visualization
+** Authentication and Session Management
+** Multisource Integration of Reviews
+** Advanced Sentiment Analysis
+** Data Storage and Management
+** Data Visualization and Reporting
 
-### Authentication and Session Management
-
-* User Authentication
-* User Interaction
-* Display of Customer Information
-* User Data Deletion
-* Two-Factor Authentication
-* Session Expiry Due to Inactivity
-  
-### Multisource Integration of Reviews
-
-* Ability to process data in different languages using NLP
-* Sentiment Change Alert
-    
-### Advanced Sentiment Analysis
-* Deep Learning Initialization
-* Deep Learning Implementation
-* Deep Learning Enhancement
-  
-### Data Storage and Management
-* Database Architecture
-* Data Storage Update
-  
-### Data Visualization and Reporting
-* Filters
-* Chart Updates
-* Report Generation
+*Non-Functional
+** Compliance and Reporting
+** Interoperability and Security
+** Performance and Scalability
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
