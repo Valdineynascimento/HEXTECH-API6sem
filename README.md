@@ -36,6 +36,23 @@
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
+
+# Sprint Backlog:
+<p align="center">
+        <img src=./docs/images/ASprint1.PNG width="400"/>
+        <img src=./docs/images/ASprint2.PNG width="400"/>
+        <img src=./docs/images/ASprint3.PNG width="400"/>
+        <img src=./docs/images/ASprint4.PNG width="400"/>
+
+# Schedule 🗓
+| *Sprints*  | *Date* | *README*  |
+| ---------- | -------------- | ------ |
+|  Kick-Off  | 11/03 to 24/03 | *N/A* |
+|  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/Valdineynascimento/HEXTECH-API6sem/blob/main/docs/Sprints/Sprint-1.md) |
+|  Sprint 2  | 15/04 to 05/05 | [View]() |
+|  Sprint 3  | 06/05 to 26/05 | [View]() |
+|  Sprint 4  | 27/05 to 16/06 | [View]() |
+
 # Product Backlog 📍
 <table align="justify">
   <thead>
@@ -120,23 +137,6 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     </tr>
   </tbody>
 </table>
-
-# Sprint Backlog:
-<p align="center">
-        <img src=./docs/images/ASprint1.PNG width="400"/>
-        <img src=./docs/images/ASprint2.PNG width="400"/>
-        <img src=./docs/images/ASprint3.PNG width="400"/>
-        <img src=./docs/images/ASprint4.PNG width="400"/>
-        
-# Schedule 🗓
-| *Sprints*  | *Date* | *README*  |
-| ---------- | -------------- | ------ |
-|  Kick-Off  | 11/03 to 24/03 | *N/A* |
-|  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/Valdineynascimento/HEXTECH-API6sem/blob/main/docs/Sprints/Sprint-1.md) |
-|  Sprint 2  | 15/04 to 05/05 | [View]() |
-|  Sprint 3  | 06/05 to 26/05 | [View]() |
-|  Sprint 4  | 27/05 to 16/06 | [View]() |
-
 
 # Team 👩‍💻
 
